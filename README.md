@@ -128,10 +128,9 @@ endmodule
 
 ### TRUTH TABLE 
 ### UP COUNTER 
+![image](https://github.com/anbuselvamA/Exp-7-Synchornous-counters-/assets/119559871/8c1f1ec3-1ae8-4cb8-9926-dd97a819d0ca)
 
 
-![image](https://github.com/anbuselvamA/Exp-NTER 
-7-Synchornous-counters-/assets/119559871/6174f8a8-339c-46b1-a575-cb83f57e8a47)
 
 ### DOWN COUTER 
 ![image](https://github.com/anbuselvamA/Exp-7-Synchornous-counters-/assets/119559871/a04f6fc4-b0dd-4299-a065-c2284ab00207)
